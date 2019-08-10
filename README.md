@@ -1,4 +1,6 @@
-![Flutter Contact Card](/readme-assets/flutter-contact-card.png)
+<p align="center">
+    <img src="readme-assets/flutter-contact-card.png" alt="Flutter Contact Card Screenshot">
+ </p>
 
 # Flutter Contact Card
 
